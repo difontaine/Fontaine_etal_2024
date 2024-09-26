@@ -11,7 +11,7 @@ Chapter2_FigureGeneration.R: Main script used to create figures for this manuscr
 
 1.2 en668_stations.csv: station list to get latitude/longitude for points in map.
 
-### 2. Quality control input data
+### 2. Quality controlled input data
 
 2.1 int_pp_corrected_011924.csv: Integrated NPP rates after quality control steps outlined in Supplemental Info of manuscript.
 
