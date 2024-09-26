@@ -9,8 +9,6 @@ Chapter2_FigureGeneration.R: Main script used to create figures for this manuscr
 
 1.1 Get the "GEBCO_2023.nc" shapefile for the map from here: https://www.gebco.net/data_and_products/gridded_bathymetry_data/ and select the "sub-ice topo/bathy" version. If using for publication, make sure to properly cite it. I used the 2023 version for this manuscript. 
 
-1.2 en668_stations.csv: station list to get latitude/longitude for points in map.
-
 ### 2. Quality controlled input data
 
 2.1 int_pp_corrected_011924.csv: Integrated NPP rates after quality control steps outlined in Supplemental Info of manuscript.
